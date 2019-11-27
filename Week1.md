@@ -18,7 +18,7 @@
 
 1. Repositories with commits to show process. [Boris Bikes](https://github.com/Hyan18/boris-bikes-2) and weekend challenge: [Airport](https://github.com/Hyan18/airport_challenge)
 2. Worked with a different pair each day on Boris Bikes challenge: [First two days](https://github.com/Hyan18/Boris_Bikes) and [end of the week](https://github.com/Hyan18/boris-bikes-2)
-3. Went through the debugging exercises which can be seen [here](https://github.com/Hyan18/Debugging_Exercises) with there also being recording in the videos directory
+3. Went through the debugging exercises which can be seen [here](https://github.com/Hyan18/Debugging_Exercises) with there also being recording in the videos directory [here](https://github.com/Hyan18/MakersPortfolio/tree/master/videos)
 4. Went through practicals, found in the following repos: [Birthdays](https://github.com/Hyan18/birthdays) and [OOD-encapsulation](https://github.com/Hyan18/OOD-encapsulation)
 
 ## Reflection
