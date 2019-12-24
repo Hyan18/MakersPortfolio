@@ -37,3 +37,4 @@
 
 - Use github's review system - we ended up talking about pull requests but most of the time didn't make any comments on github which makes it look like we just merged without a review
 - Started by doing our merges the next morning but found it better to do it at the end of the day (on the day) instead
+- Used an ORM for the first time and will carry on doing so going forward as it makes code a lot more simpler and look cleaner
