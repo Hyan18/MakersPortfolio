@@ -1,21 +1,3 @@
-https://github.com/makersacademy/course/blob/master/bookmark_manager/learning_objectives.md
-
-(RESTful routes)[https://github.com/makersacademy/course/blob/master/pills/rest.md]
-
-(Database domain modelling)[https://github.com/makersacademy/skills-workshops/tree/master/week-4/domain_modelling_student_directory_using_crc_cards]
-(with solutions)[https://github.com/makersacademy/skills-workshops/blob/master/week-4/domain_modelling_student_directory_using_crc_cards/COACH_INSTRUCTIONS.md]
-
-Monday:
-
-Code review
-Kickoff
-Catching up on Week2.md
-Pairing
-
-Tuesday:
-
-SQLZOO
-
 # Week 4
 
 ## Weekly Goals
@@ -36,7 +18,7 @@ SQLZOO
 2. Used a debugging process in the challenges
 3. * Worked through exercises 0 to 4 from [SQLZoo](https://sqlzoo.net/)
 * Went through [practical](https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/entity_relationship_diagrams.md)
-* Attended [workshop](https://github.com/makersacademy/skills-workshops/tree/master/week-4/domain_modelling_student_directory_using_crc_cards)
+* Attended [database domain modelling](https://github.com/makersacademy/skills-workshops/tree/master/week-4/domain_modelling_student_directory_using_crc_cards) with [solutions](https://github.com/makersacademy/skills-workshops/blob/master/week-4/domain_modelling_student_directory_using_crc_cards/COACH_INSTRUCTIONS.md)
 
 ## Reflection
 
@@ -50,6 +32,7 @@ SQLZOO
 
 *What would you change/improve moving forward?*
 
+- Make sure to be using [RESTful routes](https://github.com/makersacademy/course/blob/master/pills/rest.md)
 - Didn't have that much time this weekend but if I had more time I would have liked to try using an ORM
 - Saw a nicely formatted [README](https://github.com/Hyan18/bookmark-manager-fri/blob/master/README.md) during my pairing which made me think more about them - should try to write better READMEs which include:
 * What the program does
