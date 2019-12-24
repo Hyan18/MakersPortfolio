@@ -14,10 +14,11 @@
 
 ## Evidence
 
-1. Bookmark manager pairing challenge ([Monday](https://github.com/denriquem/bookmark_manager), [Tuesday](https://github.com/Hyan18/bookmark-manager-tue), [Wednesday](https://github.com/DawidSzpener/Bookmark_manager_wednesday), [Thursday](https://github.com/Hyan18/bookmark-manager-thu.git), [Friday](https://github.com/Hyan18/bookmark-manager-fri))
+1. Bookmark manager pairing challenge ([Monday](https://github.com/denriquem/bookmark_manager), [Tuesday](https://github.com/Hyan18/bookmark-manager-tue), [Wednesday](https://github.com/DawidSzpener/Bookmark_manager_wednesday), [Thursday](https://github.com/Hyan18/bookmark-manager-thu.git), [Friday](https://github.com/Hyan18/bookmark-manager-fri)) and [Chitter challenge](https://github.com/Hyan18/chitter-challenge)
 2. Used a debugging process in the challenges
-3. * Worked through exercises 0 to 4 from [SQLZoo](https://sqlzoo.net/)
-* Went through [practical](https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/entity_relationship_diagrams.md)
+3. 
+* Worked through exercises 0 to 4 from [SQLZoo](https://sqlzoo.net/)
+* Went through an entity relationship diagrams [practical](https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/entity_relationship_diagrams.md)
 * Attended [database domain modelling](https://github.com/makersacademy/skills-workshops/tree/master/week-4/domain_modelling_student_directory_using_crc_cards) with [solutions](https://github.com/makersacademy/skills-workshops/blob/master/week-4/domain_modelling_student_directory_using_crc_cards/COACH_INSTRUCTIONS.md)
 
 ## Reflection
