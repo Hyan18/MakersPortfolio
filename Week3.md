@@ -37,4 +37,4 @@ the Model lies in the lib folder holding the logic, the View lies in the views f
 
 *What would you change/improve moving forward?*
 
-- Ask more questions - I was a bit unsure about the MVC model in the middle of the week and was quickly directed to the [pill](https://github.com/makersacademy/course/blob/master/pills/mvc.md) which saved some time
+- Ask more questions - I was a bit unsure about the MVC model in the middle of the week so I asked a coach during the workshop and was quickly directed to the [pill](https://github.com/makersacademy/course/blob/master/pills/mvc.md) which saved some time
