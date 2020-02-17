@@ -28,3 +28,14 @@ Click through to any of the Week.md links for more detail.
 * I write code that is easy to change
 * I can justify the way I work
 * I grow collaboratively
+
+## Contents
+
+* [Week 1](https://github.com/Hyan18/MakersPortfolio/blob/master/Week1.md)
+* [Week 2](https://github.com/Hyan18/MakersPortfolio/blob/master/Week2.md)
+* [Week 3](https://github.com/Hyan18/MakersPortfolio/blob/master/Week3.md)
+* [Week 4](https://github.com/Hyan18/MakersPortfolio/blob/master/Week4.md)
+* [Week 5](https://github.com/Hyan18/MakersPortfolio/blob/master/Week5.md)
+* [Week 6](https://github.com/Hyan18/MakersPortfolio/blob/master/Week6.md)
+* [Week 7](https://github.com/Hyan18/MakersPortfolio/blob/master/Week7.md)
+* [Week 8 & 9 (In a blog style format)](https://github.com/Hyan18/MakersPortfolio/blob/master/Week8&9.md)
